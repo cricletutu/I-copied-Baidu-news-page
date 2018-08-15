@@ -1,0 +1,16 @@
+@keyframes runmove{
+0% {
+	top:-100px;
+	}
+100%{
+	top:100px;
+	}
+}
+.runmove{
+	-webkit-animation:runmove ease-in-out forwards 0.5s alternate;
+	-moz-animation:runmove ease-in-out forwards 0.5s alternate;
+	-ms-animation:runmove ease-in-out forwards 0.5s alternate;
+	-o-animation:runmove ease-in-out forwards 0.5s alternate;
+}
+
+

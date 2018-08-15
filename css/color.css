@@ -1,0 +1,59 @@
+.logo{
+	width:8.56em;
+	height:2.8em;
+	}
+header,footer{
+	width:984px;
+	}
+#search{
+	width:534px;
+	height:38px;
+	}
+#btn{
+	height:29px;
+	width:84px;
+	}
+#main_nav{
+	border:none;
+	width:100%;
+	}
+/*轮播图部分*/
+#parent{
+	width:100%;
+	}
+#bg_img{
+	width:100%;
+	}
+#page_aside{
+	width:590px;
+	}
+#child_title{
+	width:100%;
+	}
+#aside_nav #aside_nav_list li{
+	width:288px;
+	height:50px;
+	}
+/*aside 下的table表格*/
+.row td{
+	height:44px;
+	width:73px;
+	}
+#row_1 td:first-child{
+	height:80px;
+	width:182px;
+	}
+#row_1 td:nth-child(2){
+	height:80px;
+	width:182px;
+	}
+.row td a{
+	display:inline-block;
+	font-weight:500;
+	position:relative;
+	z-index:3;
+	}
+/*baijia号部分*/
+#baijia{
+	width:590px;
+	}

@@ -1,0 +1,164 @@
+#header_nav{
+	font:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#333;
+	}
+#header_nav #header_list li:last-child a{
+	font-weight:normal;
+	}
+.chosen{
+	font:Georgia, "Times New Roman", Times, serif;
+	color:#333;
+	}
+#header_sec_nav ul li a{
+	font:Georgia, "Times New Roman", Times, serif;
+	color:#333;
+	}
+#btn{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:white;
+	background:#36F;
+	font-size:16px;
+	}
+#header_nav ul li a{
+	font:Georgia, "Times New Roman", Times, serif;
+	color:#333;
+	}
+#header_sec_nav li a{
+	font:Georgia, "Times New Roman", Times, serif;
+	color:#333;
+	font-size:14px;
+	}
+#div_radio{
+	font-size:14px;
+	color:#333;
+	}
+/*系统主要导航条*/
+nav[role='navigation']{
+	background:#006;
+	display:inline-block;
+	border:solid 1px #000;
+	}
+nav #main_list{
+	font:Georgia, "Times New Roman", Times, serif;
+	font-weight:700;
+	}
+nav #main_list li a{
+	color:white;
+	text-decoration:none;
+	font-size:14px;
+	}
+.hover{
+	background:#BA2303;
+	}
+nav #main_list li a:hover{
+	/*background:#BA2303;*/
+	}
+/*轮播图部分*/
+#child_title #para p{
+	color:white;
+	font-size:18px;
+	font-weight:700;
+	}
+/*轮播图下面的两个的列表*/
+#aside_nav #aside_nav_list li:first-child a{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#6CF;
+	font-size:25px;
+	}
+#aside_nav #aside_nav_list li:last-child a{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#C30;
+	font-size:25px;
+	}
+/*aside 下的table表格*/
+.row td{
+	font-size:13px;
+	font-family:"Courier New", Courier, monospace;
+	color:white;
+	
+	  }
+#row_1 td:first-child{
+	font-size:21px;
+	font-family:"Courier New", Courier, monospace;
+	color:white
+	}
+#row_1 td:nth-child(2){
+	font-size:21px;
+	font-family:"Courier New", Courier, monospace;
+	color:white
+	}
+.row td a{
+	color:white;
+	text-decoration:none;
+	white-space:pre-wrap;
+	z-index:1;
+	 }
+.aside_table_para{
+	font-family:"Lucida Console", Monaco, monospace;
+	font-size:16px;
+	color:#05316d;
+	font-weight:800;
+	}
+.aside_table_para small{
+	font-family:"Lucida Console", Monaco, monospace;
+	font-size:14px;
+	color:#A5A5A5;
+	font-weight:normal;
+	}
+/*page的左半边art*/
+#page_art_title p a{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#05316d;
+	font-weight:800;
+	text-decoration:none;
+	}
+#page_art_title p small a{
+	font-family:"Comic Sans MS", cursive;
+	font-size:15px;
+	color:#A5A5A5;
+	font-weight:500;
+	}
+/*page的左半边art新闻的清单样式*/
+
+#page ul .list_title{
+	list-style:square;
+	color:red;
+	}
+#page ul li{
+	list-style:disc;
+	color:blue;
+	}
+#page_art #news_list .list_title a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:800;
+	font-size:18px;
+	}
+#page_art #news_list .list_1 a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	}
+#page ul .list_title a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:800;
+	font-size:16px;
+	color:#000;
+	}
+#page ul li a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:500;
+	font-size:14px;
+	color:#333;
+	}
+/*百家新闻部分*/
+#baijia_news ul li:first-child a{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:600;
+	}
+#baijia_news ul li a:hover{
+	text-decoration:underline;
+	color:#6f83d6;
+	}
